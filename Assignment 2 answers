@@ -1,0 +1,85 @@
+1) Software engineering is the systematic application of engineering methods, tools and principles to the development and maintenance of software systems.
+Both software engineering and traditional programming are essential to software development process but differ in the following ways:
+
+The main focus in traditional programming is writing code to solve a specific problem and perform specific tasks while the main focus in software engineering is building efficient, reliable and scalable software systems.
+When it comes to methodologies, traditional programming can be done individually or in small teams without emphasis on documentation but in software engineering, it involves detailed planning, requirements, testing, designing and implementation with a strong emphasis on documentation.
+Traditional programming may not focus on system design and architecture since it is not a primary concern but in software engineering, huge emphasis is placed on software design principles, patterns, and architecture to a point where larger cross-functional teams including developers, designers, testers, and project managers are involved.
+
+2) Agile Model: is an interactive and incremental approach focused on flexibility, collaboration and response to change 
+Waterfall Model: is a sequential approach with distinct phases that have to be followed in a rigid manner, just like a waterfall.
+
+The main differences between agile and waterfall models include the following:
+Agile method is more iterative, meaning it can be done over and over till the process is rightfully achieved and  would be preferred in flexible projects such as web development  while waterfall method is quite rigid and once a phase is completed, it cannot be changed and would be preferred in structured projects such as manufacturing.
+When it comes to project phases, agile method is developed in sprints which last a short time period and the sprints can occur concurrently while in waterfall method, each phase must be completed before another phase begins. In such a case agile would be preferred in rapid development projects such as mobile apps while waterfall would be preferred in projects that  require extensive documentation and adherence to strict regulatory standards such as government projects.
+Agile method has a high continuous customer involvement and feedback throughout the project through reviews and demonstrations and would be preferred where customer feedback is crucial such as startup projects while waterfall method has a limited involvement of customers throughout the project as they are only involved at the beginning and the end of the project and would be preferred where the task is highly dependent on the completion of previous phases such as infrastructure projects.
+
+3) Requirements engineering is the process of defining, documenting and maintaining the requirements for a software system. 
+It is the crucial initial phase in the software development lifecycle that ensures the final product meets the needs and expectations of its stakeholders.
+It provides a clear understanding of what needs to be built, helping to define the project scope and objectives.
+It also ensures that the final product aligns with the expectations and needs of stakeholders, reducing the risk of project failure.
+
+4) Modularity in software design refers to the practice of dividing a software system into different independent units or modules, each with specific responsibilities and well-defined interfaces.
+In terms of maintainability, it is easy to make changes that won’t affect the whole software system since the modules are distinct making it simple to implement the necessary changes.
+It is also easier to test and debug the code since the modules are isolated leading to quicker identification of issues.
+In terms of scalability, it allows flexible upgrades since implementing the changes won’t affect the whole system facilitating easier adoption to any new requirements or technologies.
+Isolating different modules allows the software to be  developed, tested, and deployed independently, allowing teams to work in parallel and speeding up the development process.
+
+5) Unit testing involves testing individual components or functions of the software and its purpose is to ensure that each part of the software works correctly in isolation.
+Integration testing involves testing the interaction between integrated units or modules and its purpose is to detect issues that occur when units are combined and verifies that modules work together as expected.
+System testing involves testing the complete integrated system as a whole and its purpose is to validate the system’s compliance with the specified requirements and checks for end-to-end functionality.
+Acceptance testing involves testing the system in real-world scenarios to ensure it meets user needs and its purpose is to confirm that the software is ready for delivery and use by the end users, often involving the customer.
+
+Importance of testing software includes the following;
+Quality assurance as it ensures the software meets the required standards and specifications.
+Stakeholder satisfaction as it ensures the software performs as expected, providing a positive user experience.
+Risk management as it minimizes the chances of  failures by catching issues early in the development cycle.
+Cost control as it reduces the cost of fixing issues by identifying them earlier in the development process.
+
+6) Version Control Systems are tools that help manage changes to source code over time. It enables developers to collaborate on a project by tracking, merging changes, maintaining a history of revisions and managing different versions of the software.
+
+Importance of version control systems include:
+It keeps a detailed history of changes, enabling developers to revert to previous versions if needed.
+It also allows multiple developers to work and collaborate on a project without overwriting each other’s work.
+It supports branching allowing developers to work on tasks such as debugging  in isolation from the main source code.
+It ensures code can be recovered in case of accidental deletion or corruption.
+
+Git: Local repositories, branching and merging, lightweight, highly efficient.
+Mercurial: Simple and intuitive commands, efficient handling of large projects.
+Subversion: atomic commits, versioned directories, good for binary files.
+
+7) A software project manager is responsible for ensuring that software development projects are completed on time, within scope, and within budget while meeting quality standards
+
+Some of the responsibilities they have include:
+Developing detailed project plans such as timelines, milestones and resource allocation
+Ensuring that the project team has the necessary tools and skills to complete the tasks assigned.
+Identifying, analyzing and mitigating project risks
+Some of the challenges they face include:
+Managing changes in a project that can lead to project delays and increased costs
+Dealing with project risks and uncertainties that cause delays on the project from being finished on time
+Handling team dynamics and communication issues that could cause conflicts affecting team morale.
+
+8) Software maintenance is the process of modifying and updating software after it is deployed to improve performance, correct faults and make new changes.
+
+Types of maintenance activities include 
+Corrective maintenance: fix defects or bugs discovered after the software is deployed
+Perfective maintenance: improve or enhance the software's functionality,  performance or usability.
+Adaptive maintenance: modify the software to work in a new or changed environment.
+Preventive maintenance: prevent future problems by making changes that improve the software's reliability.
+
+Importance of software maintenance include
+It improves software performance and efficiency, keeping it competitive.
+It  also allows the software to adapt to changing environments and requirements.
+It ensures the software remains useful and functional over an extended period.
+It also keeps the software reliable, enhancing user satisfaction.
+
+9) Some of the ethical issues software engineers might face include: 
+Developing a software full of defects and could cause potential harm to the end users.
+Building a software that does not have defense against vulnerabilities and threats.
+Plagiarizing or unauthorized use of intellectual property causing legal issues.
+Collecting, storing and processing data without authorized access.
+
+Ways they can adhere to ethical standards include: 
+Implementing robust data encryption, following data protection regulations and maintaining transparency with users about data usage.
+Respecting the intellectual property rights of others and avoiding plagiarism or unauthorized use of software and code.
+Conduct regular security audits, stay informed about the latest security practices, and prioritize security.
+Adhering to rigorous testing standards to ensure quality improvement and avoiding cutting corners due to time or budget pressures.
